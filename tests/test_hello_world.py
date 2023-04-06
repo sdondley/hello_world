@@ -5,5 +5,5 @@ def test_hello_world():
     assert hello_world_function() == "Hello, World!"
 
 
-def test_hello_world():
+def test_goodbye_world():
     assert goodbye_world() == "Goodbye, World!"
